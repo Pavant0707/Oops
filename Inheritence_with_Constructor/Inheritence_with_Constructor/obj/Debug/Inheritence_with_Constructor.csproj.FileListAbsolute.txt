@@ -1,0 +1,7 @@
+C:\Users\Prave\source\repos\Inheritence_with_Constructor\Inheritence_with_Constructor\bin\Debug\Inheritence_with_Constructor.exe.config
+C:\Users\Prave\source\repos\Inheritence_with_Constructor\Inheritence_with_Constructor\bin\Debug\Inheritence_with_Constructor.exe
+C:\Users\Prave\source\repos\Inheritence_with_Constructor\Inheritence_with_Constructor\bin\Debug\Inheritence_with_Constructor.pdb
+C:\Users\Prave\source\repos\Inheritence_with_Constructor\Inheritence_with_Constructor\obj\Debug\Inheritence_with_Constructor.csproj.AssemblyReference.cache
+C:\Users\Prave\source\repos\Inheritence_with_Constructor\Inheritence_with_Constructor\obj\Debug\Inheritence_with_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Prave\source\repos\Inheritence_with_Constructor\Inheritence_with_Constructor\obj\Debug\Inheritence_with_Constructor.exe
+C:\Users\Prave\source\repos\Inheritence_with_Constructor\Inheritence_with_Constructor\obj\Debug\Inheritence_with_Constructor.pdb

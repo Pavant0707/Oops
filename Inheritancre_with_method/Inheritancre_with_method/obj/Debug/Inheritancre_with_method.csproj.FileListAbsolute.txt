@@ -1,0 +1,7 @@
+C:\Users\Prave\source\repos\Inheritancre_with_method\Inheritancre_with_method\bin\Debug\Inheritancre_with_method.exe.config
+C:\Users\Prave\source\repos\Inheritancre_with_method\Inheritancre_with_method\bin\Debug\Inheritancre_with_method.exe
+C:\Users\Prave\source\repos\Inheritancre_with_method\Inheritancre_with_method\bin\Debug\Inheritancre_with_method.pdb
+C:\Users\Prave\source\repos\Inheritancre_with_method\Inheritancre_with_method\obj\Debug\Inheritancre_with_method.csproj.AssemblyReference.cache
+C:\Users\Prave\source\repos\Inheritancre_with_method\Inheritancre_with_method\obj\Debug\Inheritancre_with_method.csproj.CoreCompileInputs.cache
+C:\Users\Prave\source\repos\Inheritancre_with_method\Inheritancre_with_method\obj\Debug\Inheritancre_with_method.exe
+C:\Users\Prave\source\repos\Inheritancre_with_method\Inheritancre_with_method\obj\Debug\Inheritancre_with_method.pdb
